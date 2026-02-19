@@ -87,7 +87,7 @@ Or, simply follow this [link](https://donnelgarner.com/projects/CS480/sudoku-sol
 ### Results
 
 📊 **Smart Backtracking is obviously more powerful, thus using the power of the dark side**  
-⏱️ **Runtime:** Approximately 80% more efficient using Smart solver
+⏱️ **Runtime:** Approximately 80% more efficient using Smart solver  
 💾 **Date Information:** If I had more time, then I'd look into an average of data. But I'm busy.
 
 ---
