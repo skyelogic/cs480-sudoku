@@ -43,8 +43,8 @@ Rename index.php to index.html and open it directly in a browser. All solver log
 ### Option 3: Deploy to Web Server
 ```bash
 Upload index.php to your web server document root and navigate to it.
-Or, simply visit this <a href="https://donnelgarner.com/projects/CS480/sudoku-solver/" target="_blank">LINK</a>
 ```
+Or, simply follow this [link](https://donnelgarner.com/projects/CS480/sudoku-solver/)
 
 ## 📊 Task 1: Naive Backtracking
 
@@ -118,10 +118,10 @@ Or, simply visit this <a href="https://donnelgarner.com/projects/CS480/sudoku-so
 Through this assignment, I gained hands-on experience with:
 
 ✅ **Russell & Norvig, Artificial Intelligence: A Modern Approach** - Required Textbook  
-✅ **[Claude Code](https://code.claude.com/docs/en/overview)** - Working with headers, redirects, and content negotiation   
+✅ **[Claude Code](https://code.claude.com/docs/en/overview)** - Working with headers, redirects, and content negotiation    
 ✅ **[My Github Sudoku Solver](https://github.com/skyelogic/cs480-sudoku/)** - Donnel Garner's Repository  
 ✅ **[Visual Studio](https://code.visualstudio.com/)** - VSCode IDE by Microsoft  
-✅ **[Sudoku Solver](https://donnelgarner.com/projects/CS480/sudoku-solver/)** - Forward facing website of Sudoku Solver 
+✅ **[Sudoku Solver](https://donnelgarner.com/projects/CS480/sudoku-solver/)** - Forward facing website of Sudoku Solver  
 ✅ **[Web Sudoku](http://www.websudoku.com/)** - Required web site for solving sudoku boards  
 ✅ **[Brave Browser AI Search](https://brave.com/ai/)** - Brave Browser AI Powered Search Bar  
 
